@@ -5,4 +5,4 @@ Adaptive Instance Normalization is a normalization method that aligns the **mean
 ![AdaIN](https://www.henryailabs.com/ArticlePictures/StyleGAN-3.jpg)
 ### Style Transfer Network
 The AdaIN style transfer network takes a **content image** and an arbitrary **style image** as inputs, and synthesizes an output image that recombines the content and style of the respective input images. The network adopts a simple encoder-decoder architecture. The **VGG**, in this project, was replaced by a much smaller **CNN AE**.
-![Style Transfer Network](https://dade-ai.github.io/paperclip/_images/markdown-img-paste-20170615183151911.png)
+![Style Transfer Network](https://www.researchgate.net/publication/333617596/figure/fig1/AS:766279258480641@1559706620845/AdaIN-style-transfer-architecture-4.ppm)
